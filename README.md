@@ -1,2 +1,2 @@
 # troveskin-demo
-isnur.github.com/troveskin-demo
+https://isnur.github.io/troveskin-demo
